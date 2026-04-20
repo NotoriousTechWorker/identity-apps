@@ -1,5 +1,11 @@
 # @wso2is/identity-apps-core
 
+## 4.0.16
+
+### Patch Changes
+
+- [#10159](https://github.com/wso2/identity-apps/pull/10159) [`070eef09fd5bf3db5108b1430e5101ea7659b803`](https://github.com/wso2/identity-apps/commit/070eef09fd5bf3db5108b1430e5101ea7659b803) Thanks [@NipuniBhagya](https://github.com/NipuniBhagya)! - Add radio button support in flow composer
+
 ## 4.0.15
 
 ### Patch Changes

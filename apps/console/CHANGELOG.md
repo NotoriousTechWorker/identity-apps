@@ -1,5 +1,31 @@
 # @wso2is/console
 
+## 3.3.30
+
+### Patch Changes
+
+- [#10159](https://github.com/wso2/identity-apps/pull/10159) [`070eef09fd5bf3db5108b1430e5101ea7659b803`](https://github.com/wso2/identity-apps/commit/070eef09fd5bf3db5108b1430e5101ea7659b803) Thanks [@NipuniBhagya](https://github.com/NipuniBhagya)! - Add radio button support in flow composer
+
+- Updated dependencies []:
+  - @wso2is/admin.ask-password-flow-builder.v1@1.1.212
+  - @wso2is/admin.branding.v1@2.32.168
+  - @wso2is/admin.core.v1@2.55.35
+  - @wso2is/admin.email-management.v1@2.25.376
+  - @wso2is/admin.flows.v1@1.0.181
+  - @wso2is/admin.home.v1@1.7.192
+  - @wso2is/admin.password-recovery-flow-builder.v1@1.1.212
+  - @wso2is/admin.server-configurations.v1@2.38.51
+  - @wso2is/admin.users.v1@2.38.35
+  - @wso2is/admin.onboarding.v1@1.0.83
+  - @wso2is/admin.registration-flow-builder.v1@0.10.172
+  - @wso2is/admin.agents.v1@1.1.24
+  - @wso2is/admin.subscription.v1@1.5.224
+  - @wso2is/admin.applications.v1@2.42.24
+  - @wso2is/admin.roles.v2@2.27.382
+  - @wso2is/admin.console-settings.v1@2.26.46
+  - @wso2is/admin.approval-workflows.v1@1.3.30
+  - @wso2is/admin.connections.v1@2.36.52
+
 ## 3.3.29
 
 ### Patch Changes
